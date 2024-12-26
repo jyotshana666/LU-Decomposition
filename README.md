@@ -48,7 +48,6 @@ print(solution)
 
 ## Output:
 ![OUTPUT](SS1.png)
-
 ![OUTPUT](SS2.png)
 
 
